@@ -18,8 +18,6 @@ This repository contains all the mini-projects that I've worked on python.
 |	13	| **[013_Unzip_File](https://github.com/soumit2021/Python-Mini-Projects/tree/main/013_Unzip_File)** | 
 
 
----
-
 ## Frequently asked questions ❔
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
